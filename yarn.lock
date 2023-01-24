@@ -698,23 +698,6 @@ __metadata:
   languageName: node
   linkType: hard
 
-"ebay-bot@workspace:.":
-  version: 0.0.0-use.local
-  resolution: "ebay-bot@workspace:."
-  dependencies:
-    "@next/font": ^13.1.5
-    "@types/node": ^18.11.18
-    "@types/react": ^18.0.27
-    "@types/react-dom": ^18.0.10
-    eslint: ^8.32.0
-    eslint-config-next: ^13.1.5
-    next: ^13.1.5
-    react: ^18.2.0
-    react-dom: ^18.2.0
-    typescript: ^4.9.4
-  languageName: unknown
-  linkType: soft
-
 "emoji-regex@npm:^9.2.2":
   version: 9.2.2
   resolution: "emoji-regex@npm:9.2.2"
@@ -1914,6 +1897,23 @@ __metadata:
   checksum: 23ad088b08f898fc9b53011d7bb78ec48e79de7627e01ab5518e806033861bef68d5b0cd0e2205c2f36690ac9571ff6bcb05eb777ced2eeda8d4ac5b44592c3d
   languageName: node
   linkType: hard
+
+"next-starter@workspace:.":
+  version: 0.0.0-use.local
+  resolution: "next-starter@workspace:."
+  dependencies:
+    "@next/font": ^13.1.5
+    "@types/node": ^18.11.18
+    "@types/react": ^18.0.27
+    "@types/react-dom": ^18.0.10
+    eslint: ^8.32.0
+    eslint-config-next: ^13.1.5
+    next: ^13.1.5
+    react: ^18.2.0
+    react-dom: ^18.2.0
+    typescript: ^4.9.4
+  languageName: unknown
+  linkType: soft
 
 "next@npm:^13.1.5":
   version: 13.1.5

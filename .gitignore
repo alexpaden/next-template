@@ -41,8 +41,9 @@ jspm_packages
 # dotenv environment variables file
 .env
 
-# tailwind dist
+# cache / dist
 dist
+cache
 
 # personal notes
 notes.md
